@@ -8,3 +8,4 @@ def get_all_posts():
 
 if __name__ == "__main__":
     app.run(debug=True)
+    # /*주석추가*/
